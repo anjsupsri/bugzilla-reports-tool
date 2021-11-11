@@ -479,7 +479,7 @@ def get_dev_backlog(version):
         "f7": "component",
         "f8": "flagtypes.name",
         "j3": "OR",
-        "n7": "1",
+        "n7": "0",
         "o7": "equals",
         "o8": "substring",
         "query_format": "advanced",
